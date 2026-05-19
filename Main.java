@@ -1,4 +1,4 @@
-
+// code without GUI 
 /*
 package library;
 import java.util.ArrayList;
@@ -121,8 +121,8 @@ public class Main {
 
 
 
+// code with GUI
 
-/*
 
 
 package library;
@@ -270,4 +270,3 @@ public class Main {
     }
 }
 
-*/
